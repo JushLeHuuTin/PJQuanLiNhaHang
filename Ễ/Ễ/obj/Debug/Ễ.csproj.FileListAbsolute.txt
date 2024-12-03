@@ -1,0 +1,10 @@
+C:\Users\asdsa\source\repos\Ễ\Ễ\bin\Debug\Ễ.exe.config
+C:\Users\asdsa\source\repos\Ễ\Ễ\bin\Debug\Ễ.exe
+C:\Users\asdsa\source\repos\Ễ\Ễ\bin\Debug\Ễ.pdb
+C:\Users\asdsa\source\repos\Ễ\Ễ\obj\Debug\Ễ.csproj.AssemblyReference.cache
+C:\Users\asdsa\source\repos\Ễ\Ễ\obj\Debug\Ễ.Bai1.resources
+C:\Users\asdsa\source\repos\Ễ\Ễ\obj\Debug\Ễ.Properties.Resources.resources
+C:\Users\asdsa\source\repos\Ễ\Ễ\obj\Debug\Ễ.csproj.GenerateResource.cache
+C:\Users\asdsa\source\repos\Ễ\Ễ\obj\Debug\Ễ.csproj.CoreCompileInputs.cache
+C:\Users\asdsa\source\repos\Ễ\Ễ\obj\Debug\Ễ.exe
+C:\Users\asdsa\source\repos\Ễ\Ễ\obj\Debug\Ễ.pdb

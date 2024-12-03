@@ -1,0 +1,13 @@
+D:\lehuutin_b5\bin\Debug\lehuutin_b5.exe.config
+D:\lehuutin_b5\bin\Debug\lehuutin_b5.exe
+D:\lehuutin_b5\bin\Debug\lehuutin_b5.pdb
+D:\lehuutin_b5\obj\Debug\lehuutin_b5.csproj.AssemblyReference.cache
+D:\lehuutin_b5\obj\Debug\lehuutin_b5.csproj.SuggestedBindingRedirects.cache
+D:\lehuutin_b5\obj\Debug\lehuutin_b5.Form1.resources
+D:\lehuutin_b5\obj\Debug\lehuutin_b5.Properties.Resources.resources
+D:\lehuutin_b5\obj\Debug\lehuutin_b5.csproj.GenerateResource.cache
+D:\lehuutin_b5\obj\Debug\lehuutin_b5.csproj.CoreCompileInputs.cache
+D:\lehuutin_b5\obj\Debug\lehuutin_b5.exe
+D:\lehuutin_b5\obj\Debug\lehuutin_b5.pdb
+D:\lehuutin_b5\obj\Debug\lehuutin_b5.Bai9.resources
+D:\lehuutin_b5\obj\Debug\lehuutin_b5.Bai10.resources

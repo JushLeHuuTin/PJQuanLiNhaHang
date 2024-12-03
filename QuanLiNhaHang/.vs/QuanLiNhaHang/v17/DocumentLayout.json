@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asdsa\\source\\repos\\QuanLiNhaHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBAF8B2-722E-403C-83F5-8665B79F4718}|DAL\\DAL.csproj|c:\\users\\asdsa\\source\\repos\\quanlinhahang\\dal\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBAF8B2-722E-403C-83F5-8665B79F4718}|DAL\\DAL.csproj|solutionrelative:dal\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F32F3FE-5A8E-4601-A9A8-C40D04D2A1C6}|QuanLiNhaHang\\GUI.csproj|c:\\users\\asdsa\\source\\repos\\quanlinhahang\\quanlinhahang\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F32F3FE-5A8E-4601-A9A8-C40D04D2A1C6}|QuanLiNhaHang\\GUI.csproj|solutionrelative:quanlinhahang\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F32F3FE-5A8E-4601-A9A8-C40D04D2A1C6}|QuanLiNhaHang\\GUI.csproj|c:\\users\\asdsa\\source\\repos\\quanlinhahang\\quanlinhahang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F32F3FE-5A8E-4601-A9A8-C40D04D2A1C6}|QuanLiNhaHang\\GUI.csproj|solutionrelative:quanlinhahang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\asdsa\\source\\repos\\QuanLiNhaHang\\DAL\\DataProvider.cs",
+              "RelativeDocumentMoniker": "DAL\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\asdsa\\source\\repos\\QuanLiNhaHang\\DAL\\DataProvider.cs",
+              "RelativeToolTip": "DAL\\DataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:15:24.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\asdsa\\source\\repos\\QuanLiNhaHang\\QuanLiNhaHang\\frmHome.cs",
+              "RelativeDocumentMoniker": "QuanLiNhaHang\\frmHome.cs",
+              "ToolTip": "C:\\Users\\asdsa\\source\\repos\\QuanLiNhaHang\\QuanLiNhaHang\\frmHome.cs [Design]",
+              "RelativeToolTip": "QuanLiNhaHang\\frmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:14:41.521Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asdsa\\source\\repos\\QuanLiNhaHang\\QuanLiNhaHang\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLiNhaHang\\Program.cs",
+              "ToolTip": "C:\\Users\\asdsa\\source\\repos\\QuanLiNhaHang\\QuanLiNhaHang\\Program.cs",
+              "RelativeToolTip": "QuanLiNhaHang\\Program.cs",
+              "ViewState": "AgIAAAUAAABgZmZmZiYgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:13:23.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
